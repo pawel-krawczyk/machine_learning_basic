@@ -1,2 +1,2 @@
-# machine_learning_basic
-Basic Machine Learning code
+# Machine Learning 
+Basic Machine Learning scripts
